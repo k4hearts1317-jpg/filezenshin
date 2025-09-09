@@ -1,29 +1,29 @@
-# 🍷 Instagram Abandoned Account Finder #
+# 🍷 Instagram Jacking Tool #
 
-A smart Instagram tool that scans for abandoned / inactive accounts and automatically sends detailed information to your Telegram bot.
+**A smart Instagram tool that scans for abandoned / inactive accounts and automatically sends detailed information to your Telegram bot.**
 ⚡ Fast • 🔒 Secure • 🤖 Automated
 
-#✨ Features#
+# ✨ Features #
 
-🔍 Find abandoned or inactive Instagram accounts
+**🔍 Find abandoned or inactive Instagram accounts**
 
-📊 Extract useful info (username, bio, followers, following, profile pic, etc.)
+**📊 Extract useful info (username, year, followers, following, meta true, etc.)**
 
-🤖 Auto-send results to your Telegram bot
+**🤖 Auto-send results to your Telegram bot**
 
-⚡ Lightweight & fast scanning
+**⚡ Lightweight & fast scanning**
 
-🛠 Easy setup, works with Python
+**🛠 Easy setup, works with Python**
 
-#⚠️ Disclaimer#
+# ⚠️ Disclaimer #
 
-This tool is created for educational purposes only.
-We are not affiliated with Instagram. Please use responsibly and do not abuse this software.
+**This tool is created for educational purposes only.
+We are not affiliated with Instagram. Please use responsibly and do not abuse this software.**
 
-#🤝 Contributing#
+# 🤝 Contributing #
 
-Pull requests are welcome! For major changes, open an issue first to discuss what you’d like to change.
+**Pull requests are welcome! For major changes, open an issue first to discuss what you’d like to change.**
 
-#⭐ Support#
+# ⭐ Support #
 
-If this project helps you, give it a star ⭐ on GitHub and share with others!
+**If this project helps you, give it a star ⭐ on GitHub and share with others!**
